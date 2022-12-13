@@ -50,6 +50,6 @@
                 </div>
                 <a href="contact.html" class="nav-item nav-link">Contáctenos</a>
             </div>
-            <a href="" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block"><i class="fa fa-sign-in ms-3"></i></a>
+            <a href="" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block"><i class="bi bi-box-arrow-in-right"></i></a>
         </div>
     </nav>

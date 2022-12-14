@@ -67,7 +67,7 @@ include './controller/navbar.php';
     <!-- Service End -->
 
     <!-- Courses Start -->
-    <?php include './views/courses.php'; ?>
+    <?php include './views/course.php'; ?>
     <!-- Courses Start -->
 
 

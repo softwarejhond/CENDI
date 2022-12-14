@@ -11,7 +11,7 @@
                             <a class="position-relative d-block overflow-hidden" href="">
                                 <img class="img-fluid" src="img/cat-1.jpg" alt="">
                                 <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
-                                    <h5 class="m-0">Web Design</h5>
+                                    <h5 class="m-0">Técnico Laboral como Auxiliar contable</h5>
                                     <small class="text-primary">49 Courses</small>
                                 </div>
                             </a>
@@ -20,7 +20,7 @@
                             <a class="position-relative d-block overflow-hidden" href="">
                                 <img class="img-fluid" src="img/cat-2.jpg" alt="">
                                 <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
-                                    <h5 class="m-0">Graphic Design</h5>
+                                    <h5 class="m-0">Técnico Laboral como Auxiliar Administrativo</h5>
                                     <small class="text-primary">49 Courses</small>
                                 </div>
                             </a>
@@ -29,7 +29,7 @@
                             <a class="position-relative d-block overflow-hidden" href="">
                                 <img class="img-fluid" src="img/cat-3.jpg" alt="">
                                 <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
-                                    <h5 class="m-0">Video Editing</h5>
+                                    <h5 class="m-0">Técnico Laboral como Auxiliar en Secretariado Médico</h5>
                                     <small class="text-primary">49 Courses</small>
                                 </div>
                             </a>
@@ -40,7 +40,7 @@
                     <a class="position-relative d-block h-100 overflow-hidden" href="">
                         <img class="img-fluid position-absolute w-100 h-100" src="img/cat-4.jpg" alt="" style="object-fit: cover;">
                         <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin:  1px;">
-                            <h5 class="m-0">Online Marketing</h5>
+                            <h5 class="m-0">Técnico Laboral como Auxiliar en Secretariado Gerencial</h5>
                             <small class="text-primary">49 Courses</small>
                         </div>
                     </a>
@@ -49,7 +49,7 @@
                     <a class="position-relative d-block h-100 overflow-hidden" href="">
                         <img class="img-fluid position-absolute w-100 h-100" src="img/cat-4.jpg" alt="" style="object-fit: cover;">
                         <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin:  1px;">
-                            <h5 class="m-0">Online Marketing</h5>
+                            <h5 class="m-0">Técnico Laboral como Auxiliar en Recursos Humanos</h5>
                             <small class="text-primary">49 Courses</small>
                         </div>
                     </a>
@@ -60,7 +60,7 @@
                             <a class="position-relative d-block overflow-hidden" href="">
                                 <img class="img-fluid" src="img/cat-1.jpg" alt="">
                                 <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
-                                    <h5 class="m-0">Web Design</h5>
+                                    <h5 class="m-0">Técnico Laboral como Auxiliar en Servicios Farmacéuticos</h5>
                                     <small class="text-primary">49 Courses</small>
                                 </div>
                             </a>
@@ -69,7 +69,7 @@
                             <a class="position-relative d-block overflow-hidden" href="">
                                 <img class="img-fluid" src="img/cat-2.jpg" alt="">
                                 <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
-                                    <h5 class="m-0">Graphic Design</h5>
+                                    <h5 class="m-0">Técnico Laboral Auxiliar en Administrativo en Salud</h5>
                                     <small class="text-primary">49 Courses</small>
                                 </div>
                             </a>
@@ -78,7 +78,7 @@
                             <a class="position-relative d-block overflow-hidden" href="">
                                 <img class="img-fluid" src="img/cat-3.jpg" alt="">
                                 <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
-                                    <h5 class="m-0">Video Editing</h5>
+                                    <h5 class="m-0">Técnico Laboral como Auxiliar en Servicio al Cliente y Telemercadeo</h5>
                                     <small class="text-primary">49 Courses</small>
                                 </div>
                             </a>
@@ -91,7 +91,7 @@
                             <a class="position-relative d-block overflow-hidden" href="">
                                 <img class="img-fluid" src="img/cat-1.jpg" alt="">
                                 <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
-                                    <h5 class="m-0">Web Design</h5>
+                                    <h5 class="m-0">Técnico Laboral en Programas informáticos y de sistemas</h5>
                                     <small class="text-primary">49 Courses</small>
                                 </div>
                             </a>
@@ -100,7 +100,7 @@
                             <a class="position-relative d-block overflow-hidden" href="">
                                 <img class="img-fluid" src="img/cat-2.jpg" alt="">
                                 <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
-                                    <h5 class="m-0">Graphic Design</h5>
+                                    <h5 class="m-0">Técnico Laboral como Empleado de Recepción Hotelera</h5>
                                     <small class="text-primary">49 Courses</small>
                                 </div>
                             </a>
@@ -109,7 +109,7 @@
                             <a class="position-relative d-block overflow-hidden" href="">
                                 <img class="img-fluid" src="img/cat-3.jpg" alt="">
                                 <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin: 1px;">
-                                    <h5 class="m-0">Video Editing</h5>
+                                    <h5 class="m-0">Técnico Laboral como Asistente en Desarrollo de Software</h5>
                                     <small class="text-primary">49 Courses</small>
                                 </div>
                             </a>
@@ -120,7 +120,7 @@
                     <a class="position-relative d-block h-100 overflow-hidden" href="">
                         <img class="img-fluid position-absolute w-100 h-100" src="img/cat-4.jpg" alt="" style="object-fit: cover;">
                         <div class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3" style="margin:  1px;">
-                            <h5 class="m-0">Online Marketing</h5>
+                            <h5 class="m-0">Conocimientos Académicos en inglés</h5>
                             <small class="text-primary">49 Courses</small>
                         </div>
                     </a>

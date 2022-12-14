@@ -24,7 +24,7 @@
                     <h4 class="text-white mb-3">Nuestra sede principal</h4>
                     <div class="row g-2 pt-2">
                         <div class="col-12">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.132508951651!2d-75.56471368487735!3d6.246263328056175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e442858283e4af9%3A0xe323531db7977b0a!2s%22CENDI%22%20Corporaci%C3%B3n%20Centro%20de%20Desarrollo%20Integrado%20Instituci%C3%B3n%20de%20Educaci%C3%B3n!5e0!3m2!1ses-419!2sco!4v1670987378769!5m2!1ses-419!2sco" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.132508951651!2d-75.56471368487735!3d6.246263328056175!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e442858283e4af9%3A0xe323531db7977b0a!2s%22CENDI%22%20Corporaci%C3%B3n%20Centro%20de%20Desarrollo%20Integrado%20Instituci%C3%B3n%20de%20Educaci%C3%B3n!5e0!3m2!1ses-419!2sco!4v1670987378769!5m2!1ses-419!2sco" width="100%" height="100" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
                 </div>

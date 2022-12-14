@@ -2,9 +2,12 @@
     <meta charset="utf-8">
     <title>CENDI</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
-
+    <meta name="description" content="La Corporación Centro de Desarrollo Integrado CENDI es una Institución Educativa fundada en 1988 y caracterizada por la búsqueda constante de innovación educativa y de nuevas alternativas pedagógicas que permitan a nuestros educandos y a la comunidad en general, más y mejores posibilidades de bienestar social y de mejoramiento de la calidad de vida. Nuestra función social y educativa se refleja en miles de nuestros egresados, quienes, gracias a una actualizada y esmerada capacitación en nuestras aulas, han logrado proyectarse y convertirse en parte esencial del desarrollo y futuro de nuestra ciudad."/>
+    <meta content="educacion, estudios, idioma, software, bachillerato, tecnicas, tecnicos, medellin, educacion gratis, administrativo, secretariado, recursos humanos, asistente administrativo" name="keywords">
+    <meta name="language" content="spanish" >
+    <meta name="Distribution" content="global"/>
+    <meta name="author" content="Agencia de Desarrollo Eagle Software" />
+    <meta name="copyright" content="Corporación Cendi" />
     <!-- Favicon -->
     <link href="img/logo.png" rel="icon">
 

@@ -44,12 +44,9 @@
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <h4 class="text-white mb-3">Newsletter</h4>
-                    <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
-                    <div class="position-relative mx-auto" style="max-width: 400px;">
-                        <input class="form-control border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
-                        <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
-                    </div>
+                    <h4 class="text-white mb-3">PQRS</h4>
+                    <p>Realiza tu solicitud en el siguiente botón gracias</p>
+                    <a href="#" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2 w-100">SignUp</a>
                 </div>
             </div>
         </div>
@@ -59,7 +56,7 @@
                     <div class="col-md-12 text-center text-md-start mb-3 mb-md-0">
                     Copyright &copy;
 					<script>document.write(new Date().getFullYear());</script> CENDI Todos los Derechos Reservados
-                        Made By <a class="border-bottom" href="https://agenciaeaglesoftware.com/">Agencia de Desarrollo Eagle Software</a><br><br>
+                        Made By <a class="border-bottom" href="https://agenciaeaglesoftware.com/" target="_blank">Agencia de Desarrollo Eagle Software</a><br><br>
                     </div>
                  
                 </div>

@@ -46,7 +46,8 @@
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-3">PQRS</h4>
                     <p>Realiza tu solicitud en el siguiente botón gracias</p>
-                    <a href="#" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2 w-100">SignUp</a>
+                    <a class="btn btn-primary py-3 px-5 mt-2 w-100" href="#" title="Realizr PQRS" target="_blank">REALIZAR PQRS</a>
+                        
                 </div>
             </div>
         </div>

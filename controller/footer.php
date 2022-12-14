@@ -56,7 +56,7 @@
         <div class="container">
             <div class="copyright">
                 <div class="row">
-                    <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+                    <div class="col-md-12 text-center text-md-start mb-3 mb-md-0">
                     Copyright &copy;
 					<script>document.write(new Date().getFullYear());</script> CENDI Todos los Derechos Reservados
                         Made By <a class="border-bottom" href="https://agenciaeaglesoftware.com/">Agencia de Desarrollo Eagle Software</a><br><br>

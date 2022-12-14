@@ -45,7 +45,8 @@
                         </div>
                     </a>
                 </div>
-                <div class="row g-3">
+                <div class="col-lg-7 col-md-6">
+                    <div class="row g-3">
                         <div class="col-lg-12 col-md-12 wow zoomIn" data-wow-delay="0.1s">
                             <a class="position-relative d-block overflow-hidden" href="">
                                 <img class="img-fluid" src="img/cat-1.jpg" alt="">
